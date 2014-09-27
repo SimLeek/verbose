@@ -7,9 +7,9 @@ All commands are prefixed with 'VB'.
 #Commands
 | Command | Description |
 |---------|-------------|
-|VB_ID      | gives back the varible name as a string|
-|VB_SHOW    | shows the name and value of a variable|
-|VB_TITLE   | shows a title with the name inputted (Variable need not exist)|
+|VB_ID      | gives back the text in the parenthesis as a string|
+|VB_SHOW    | gives back the text in the parenthesis and what it evaluates to|
+|VB_TITLE   | uses the characters in the parenthesis to create and eye-catching title|
 |VB_ARRAY   | prints a 1d pointer array|
 |VB_ARRAY2D | prints a 2d pointer array|
 |VB_ARRAY3D |prints a 3d pointer array|
